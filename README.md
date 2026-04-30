@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me 👋
 
 <!--
 **TranVi2204/TranVi2204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
